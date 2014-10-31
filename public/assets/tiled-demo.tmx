@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Desert" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <layer name="Background" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJyTY2BgkBvFo3gUj+IhgAG1jiMp
+  </data>
+ </layer>
+ <layer name="Scenery" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKIzZgZiTgYIUCMSUwNwI9mLC7ABMTsJmINK9vIBMT8JWIBK9ooBsTgJWIJIe7nwYFoBbig9kuwlFL+0slcQiIXojIWBGADuSAdh
+  </data>
+ </layer>
+ <layer name="Plants" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg4oD5A9uoDsQaN7ZAHYgUa24HP7oEGckAshQPr0dhuJRyYXMACxKxEqNPCgckFPEDMS6RaOQrsGUoAADYMA80=
+  </data>
+ </layer>
+ <layer name="ground" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjY2BgYKcz5gBiPgb6A4FRe0ftHbWXKvYyAjETnTEzEAMA7CcB/w==
+  </data>
+ </layer>
+</map>
